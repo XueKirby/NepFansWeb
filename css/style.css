@@ -35,7 +35,7 @@ body {
     height: 100%;
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
-    color: rgb(127, 0, 201)
+    color: #BA84F3
 }
 
 .no-padding {
@@ -93,7 +93,7 @@ h3 {
 }
 
 h5 {
-    color: #ff008c;
+    color: #CBAEE8;
 }
 
 
@@ -437,13 +437,14 @@ h5 {
 }
 
 b i:last-child {
-    color: #ae00ff !important;
+	/*last character is different*/
+    color: #CBAEE8 !important;
 }
 
 .box-intro h5 {
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: rgb(255, 0, 212);
+    color: #BA84F3;
     line-height: 1.7
 }
 
@@ -851,7 +852,7 @@ footer img {
     right: 10px;
     text-align: center;
     color: #fff;
-    background: rgba(255, 0, 149, 0.8);
+    background: #CBAEEE;
     visibility: hidden;
     opacity: 0;
     -webkit-transition: opacity .3s 0s, visibility 0s .3s;
