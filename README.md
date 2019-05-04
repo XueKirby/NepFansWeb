@@ -12,5 +12,7 @@ NepNep loves you.
 
 NepNep爱你们。
 
-#### Please do not hesitate post a issue if you find any copyright issues in the site
-#### 如果发现网站中的版权问题请，请在仓库提issue
+![Love Ya](img/love_ya.webp)
+
+###### Please do not hesitate post a issue if you find any copyright issues in the site
+###### 如果发现网站中的版权问题请，请在仓库提issue
